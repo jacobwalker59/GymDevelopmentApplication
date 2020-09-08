@@ -1,0 +1,49 @@
+[
+{
+	"Weight":100,
+	"Reps":5,
+	"SetNumber": 1,
+	"ExercisePerTrainingDayId":2
+
+},
+
+{
+	"Weight":100,
+	"Reps":5,
+	"SetNumber": 2,
+	"ExercisePerTrainingDayId":2
+
+
+},
+
+
+{
+	"Weight":50,
+	"Reps":15,
+	"SetNumber": 1,
+	"ExercisePerTrainingDayId":3
+
+
+},
+
+{
+	"Weight":30,
+	"Reps":12,
+	"SetNumber": 2,
+	"ExercisePerTrainingDayId":3
+
+
+},
+{
+	"Weight":220,
+	"Reps":12,
+	"SetNumber": 1,
+	"ExercisePerTrainingDayId":4
+
+	
+
+
+}
+
+
+]
